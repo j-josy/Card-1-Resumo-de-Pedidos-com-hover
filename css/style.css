@@ -1,0 +1,163 @@
+html {
+    margin: 8px;
+    padding: 20px 100px 20px auto;
+}
+
+body {
+    background-image:pattern-background;
+
+
+
+}
+
+.item1 {
+    background-color:#fff9f9;
+    border-radius: 10px;
+    width: 450px;
+    height: 680px;
+    margin: 500px;
+    margin: auto;
+    margin:center;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.39);
+    
+    
+
+   
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1px;
+    grid-template-rows: 300px 10px 200px;
+    padding: 50px;
+   
+    
+}
+
+.parte1 {
+    background-color: white;
+    grid-area: 1/2/5/3;
+    box-shadow: 20px;
+    
+   
+}
+
+
+
+
+
+
+.btn1 {
+    border-radius: 10px;
+    border:none;
+    background-color: rgb(56,41,224);
+    display: inline-block;
+    cursor: pointer;
+    font-family: Verdana;
+    font-size: 14px;
+   text-decoration: none;
+    width: 350px;
+    height: 45px;
+    color: white;
+    margin-left: 50px;
+   margin-top: 30px;
+   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.39);
+   
+    
+}
+
+.btn2 {
+   background-color: white;
+    border:none;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Verdana;
+    font-size: 14px;
+   text-decoration: none;
+    width: 300px;
+    height: 40px;
+    color: rgb(131, 158, 201);
+    margin-left: 80px;
+   margin-top: 30px;
+   
+    
+}
+
+
+
+
+
+.btn1:hover {
+    opacity: 0.5;
+}
+
+.btn2:hover {
+    
+    color: black;
+}
+
+
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(31,54,121);
+   padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+
+
+
+
+.texto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+   margin-left: 80px;
+   margin-top: 5px;
+   
+    color: rgb(131, 158, 201);
+  
+   
+    
+    
+}
+
+
+
+    
+    
+    
+   
+
+
+
+.container1{
+    background-color:#cccccc ;
+    
+    border-radius: 10px;
+    margin: auto;
+    padding: 2px;
+    width: 400px;
+    height: 85px;
+    text-align: left;
+    
+    
+
+}
+
+img,p {
+display:inline-block;
+
+}
+
+a:link{
+    color:blue;
+    font-family:sans-serif;
+    text-decoration: none;
+    text-decoration-line: right;
+    
+
+}
